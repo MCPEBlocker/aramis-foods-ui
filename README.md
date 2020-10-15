@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Overview
-Have to be like [that](https://github.com/mcpeblocker/aramis-foods-ui/blob/master/overview/havetobe.png?raw=true)
-[Overview](https://github.com/mcpeblocker/aramis-foods-ui/blob/master/overview/overview.png?raw=true)
+Has to be like [that](https://github.com/mcpeblocker/aramis-foods-ui/blob/master/overview/havetobe.png?raw=true).
+[Overview](https://github.com/mcpeblocker/aramis-foods-ui/blob/master/overview/overview.png?raw=true) on ubuntu.
 
 ## Available Scripts
 
