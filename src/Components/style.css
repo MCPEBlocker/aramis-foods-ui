@@ -1,0 +1,81 @@
+.nav-bar {
+    position: relative;
+    width: 100%;
+    background: #00ae26;
+    height: 75px;
+}
+
+.nav-brand {
+    display: inline-block;
+    margin: 0 3%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 75px;
+}
+
+.nav-menus {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.nav-menu {
+    display: inline;
+    margin: 0 5%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 1%;
+}
+
+.nav-menu.active {
+    border-bottom: 1px solid white;
+}
+
+/* Users */
+
+.users {
+    margin: 3%;
+}
+
+.inp-group {
+    display: inline-block;
+    margin: 1%;
+}
+.inp-group label {
+    padding: 5%;
+    display: block;
+}
+
+/* Table */
+table {
+    text-align: left;
+    margin: 0 2%;
+}
+.thead {
+    font-weight: bold;
+}
+.msg {
+    text-transform: uppercase;
+    padding: 3%;
+    font-size: 10px;
+    text-align: center;
+    border-radius: 5%;
+    display: block;
+
+}
+.icon {
+    text-align: center;
+}
+.fontIcon {
+    margin: 0 5%;
+    color: black;
+}
+
+.btn.btn-success {
+    background-color: #00ae26;
+}

@@ -1,0 +1,49 @@
+{
+    "users": [
+        {
+            "id": 1234,
+            "date": "2020-09-30 15:33",
+            "phone": "01012345678",
+            "balance": 12456,
+            "bonuses": 12456,
+            "language": "ru",
+            "status": "blocked"
+        },
+        {
+            "id": 1234,
+            "date": "2020-09-30 15:33",
+            "phone": "01012345678",
+            "balance": 12456,
+            "bonuses": 12456,
+            "language": "en",
+            "status": "active"
+        },
+        {
+            "id": 1234,
+            "date": "2020-09-30 15:33",
+            "phone": "01012345678",
+            "balance": 12456,
+            "bonuses": 12456,
+            "language": "ko",
+            "status": "blocked"
+        },
+        {
+            "id": 1234,
+            "date": "2020-09-30 15:33",
+            "phone": "01012345678",
+            "balance": 12456,
+            "bonuses": 12456,
+            "language": "uz",
+            "status": "active"
+        },
+        {
+            "id": 1234,
+            "date": "2020-09-30 15:33",
+            "phone": "01012345678",
+            "balance": 12456,
+            "bonuses": 12456,
+            "language": "en",
+            "status": "unverified"
+        }
+    ]
+}
